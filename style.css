@@ -328,8 +328,8 @@ footer{
         width: 70vw;
         height: 100vh;
         top: 0;
-        right: -70vw;
-        z-index: 2;
+        right: 0;
+        z-index: -4;
         background: #fff;
         flex-direction: column;
         justify-content: initial;
