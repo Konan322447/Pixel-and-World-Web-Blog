@@ -280,6 +280,7 @@ footer{
         'footer'
         ;
         width: 100vw;
+        overflow-x: hidden;
     }
     .big{
         padding: 3% 4%;
